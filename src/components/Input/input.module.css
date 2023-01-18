@@ -1,0 +1,8 @@
+.search {
+       border: none;
+       padding: 10px 20px;
+       border-radius: 8px;
+       background: linear-gradient(to left, #ffff00 0%, #ff6600 100%);
+       color: #fff;
+       font-size: 18px;
+   }

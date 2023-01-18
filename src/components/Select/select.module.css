@@ -1,0 +1,12 @@
+.select {
+       width: 100%;
+       max-width: 345px;
+       margin-left: 10px;
+       border: none;
+       padding: 10px 20px;
+       border-radius: 8px;
+       background: linear-gradient(to left, #ffff00 0%, #ff6600 100%);
+       /* background: rgba($color: #000000, $alpha: 0.2); */
+       color: rgb(102, 238, 11);
+       font-size: 18px;
+}
